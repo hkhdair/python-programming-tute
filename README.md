@@ -8,5 +8,5 @@ cd python-programming-tute
 ```
 then pull for updates
 ```bash
-git pull origin
+git pull
 ```
