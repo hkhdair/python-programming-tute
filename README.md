@@ -24,7 +24,7 @@ git pull
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to report them by creating an issue in the [issue tracker](https://github.com/hkhdair/python-programming-tute/issues).
 
-If you'd like to contribute to this project, you can do so by opening a pull request. Here are the steps:
+If you'd like to contribute to this tutorial, you can do so by opening a pull request. Here are the steps:
 
 1. Fork the repository by clicking the "Fork" button in the top-right corner of the repository page.
 
